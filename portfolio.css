@@ -1,0 +1,134 @@
+/*Mahmud Mahi*/
+*{
+    padding:0;
+    margin:0;
+}
+/*------------------------------------------------*/
+.black{
+    display:block;
+    padding:5%;
+    background-color:black;
+    color:blanchedalmond
+    }
+
+.purple{
+    display:block;
+    padding:5%;
+    background-color:#581845;
+    color:blanchedalmond;
+}
+/*------------------------------------------------*/
+.home{
+    display:block;
+    padding:3%;
+    text-align:center;
+    background-color:lavender;
+    }
+.home img{
+    height:300px;
+    width:300px;
+    border-radius:50%;
+}
+.home h1{
+    opacity: 100%;
+    color:dimgrey;
+    font-size:50px;
+    font-family:serif;
+}
+.home h3{
+    color: dimgrey;
+    font-weight:70px;
+    font-family:arial;
+}
+.home a{
+    color:purple;
+}
+/*------------------------------------------------*/
+.para-pic{
+    height:10%;
+    padding-bottom:50px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color:blanchedalmond;
+    position:relative;
+    color:black;
+}
+.para-pic img{
+    position:absolute;
+    bottom:80%;
+    left:25px;
+}
+/*------------------------------------------------*/
+.photo-courtesy{
+    padding: 4%;
+    margin-left:30%;
+ }
+
+/*------------------------------------------------*/
+.social-media img{
+    height:35px;
+    width:35px;
+    padding:10px 12px;
+}
+/*------------------------------------------------*/
+
+/*------------------------------------------------*/
+#home-photo-courtesy{
+    margin-left:60%;
+    padding:1%;
+}
+/*#projects{
+    padding: 3% 40% ;
+    list-style:square;
+}*/
+#body{
+    position:absolute;
+    bottom:85%;
+}
+#computer{
+    position:absolute;
+    bottom:93%;
+}
+#edu{
+    position:absolute;
+    bottom:87%;
+}
+#coin{
+    position:absolute;
+    bottom:85%;
+}
+#footer{
+    padding: 10px;
+    background-color:white;
+    text-align:center;
+}
+
+/*------------------------------------------------*/
+
+h1{
+    opacity:.5;
+    font-size:110px;
+    font-family:serif;
+    font-weight:800;
+}
+h2{
+    font-family:serif;
+    font-weight:800;
+    padding-bottom:100px;
+    font-size:40px;
+}
+p{
+    padding-top:40px;
+}
+img{
+    height:100px ;
+    width:100px;
+    border-radius:100%;
+ }
+ a{
+    color:DarkCyan;
+    font-family:sans-serif;
+    font-size:15px;
+ }
+
+
