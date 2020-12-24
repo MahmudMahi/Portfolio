@@ -52,6 +52,7 @@
     background-color:blanchedalmond;
     position:relative;
     color:black;
+    font-size:20 px ;
 }
 .para-pic img{
     position:absolute;
@@ -119,7 +120,7 @@ h2{
 }
 p{
     padding-top:40px;
-    font-size:150%;
+    
     font-family:arial;
 }
 img{
