@@ -1,3 +1,5 @@
+alert("Use PC for a better view");
+
 var name = prompt("what is your NickName , please?" , "Your Nick Name");
 if (name==="Your Nick Name") {
     alert("ALERT! You haven't set your nickname , So you'll be adressed as Random person the whole time. :( ")
