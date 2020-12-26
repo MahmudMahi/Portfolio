@@ -87,19 +87,19 @@
 }*/
 #body{
     position:absolute;
-    bottom:180px;
+    bottom:90%;
 }
 #computer{
     position:absolute;
-    bottom:490px;
+    bottom:96%;
 }
 #edu{
     position:absolute;
-    bottom:200px;
+    bottom:90%;
 }
 #coin{
     position:absolute;
-    bottom:290px;
+    bottom:93%;
 }
 #footer{
     padding: 10px;
