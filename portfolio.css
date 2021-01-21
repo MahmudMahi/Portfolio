@@ -82,6 +82,7 @@
     font-size:10px;
 }
 #projects{
+    text-align:center;
     padding: 3% 40% ;
     list-style:square;
 }
